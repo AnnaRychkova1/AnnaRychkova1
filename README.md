@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Anna 
 
-I'm a Junior Full Stack Developer. Development, practice, and tangible outcomes are key priorities for me. I'm a friendly team player with a strong focus on contributing to innovative projects and advancing as a Full Stack Developer.
+Junior Full Stack Developer with strong foundation in React, Node.js and REST APIs. Experienced in building real-world web applications, working in Agile teams and writing clean, testable code.
 
 ## "The satisfaction of work makes the work perfect." — Aristotle 
 
