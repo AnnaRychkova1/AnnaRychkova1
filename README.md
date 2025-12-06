@@ -8,7 +8,7 @@ Junior Full Stack Developer with strong foundation in React, Node.js and REST AP
 ### Connect with me:
 
 - [![Static Badge](https://img.shields.io/badge/LinkedIn%20-%230A66C2?style=flat&logo=linkedin&logoColor=%230A66C2&labelColor=white&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fannarychkova1%2F)](https://www.linkedin.com/in/annarychkova1/)
--  [![Static Badge](https://img.shields.io/badge/aanytkaa%40gmail.com%20-8FFCCC?style=flat&logo=gmail&logoColor=white&labelColor=BD324E&color=BD324E&link=aanytkaa%40gmail.com%20)](mailto:aanytkaa@gmail.com)
+-  [![Static Badge](https://img.shields.io/badge/anna.rychkova.dev%40gmail.com%20-8FFCCC?style=flat&logo=gmail&logoColor=white&labelColor=BD324E&color=BD324E&link=anna.rychkova.dev%40gmail.com%20)](mailto:anna.rychkova.dev@gmail.com)
 
 
 
