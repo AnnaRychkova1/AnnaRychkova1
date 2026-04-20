@@ -32,7 +32,7 @@ Junior Software Engineer with a strong foundation in React, Node.js, TypeScript,
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" title="Redux"/>](https://redux.js.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3"/>](https://www.w3schools.com/css/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/>](https://tailwindcss.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>](https://www.w3.org/html/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>](https://www.w3schools.com/html/default.asp)
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker"/>](https://www.docker.com/)
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>](https://git-scm.com/)
