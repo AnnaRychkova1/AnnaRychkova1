@@ -7,13 +7,10 @@ Junior Software Engineer with a strong foundation in React, Node.js, TypeScript,
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2?style=flat&logo=linkedin&logoColor=%230A66C2&labelColor=white&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fannarychkova1%2F)](https://www.linkedin.com/in/annarychkova1/)
-
-[![Gmail](https://img.shields.io/badge/anna.rychkova.dev%40gmail.com-white?style=flat&logo=gmail&logoColor=white&labelColor=white&color=white)](mailto:anna.rychkova.dev@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=flat&logo=vercel&logoColor=white&labelColor=FF69B4&color=FF69B4)](https://annarychkova.dev/)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annarychkova1/)
+[![Gmail](https://img.shields.io/badge/Gmail-22C55E?style=flat&logo=gmail&logoColor=white)](mailto:anna.rychkova.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-730742?style=flat&logo=googlechrome&logoColor=f9689d)](https://annarychkova.dev/)
+##
 
 ### Languages and Tools:
 
@@ -37,16 +34,19 @@ Junior Software Engineer with a strong foundation in React, Node.js, TypeScript,
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/>](https://tailwindcss.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>](https://www.w3.org/html/)
 
-
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker"/>](https://www.docker.com/)
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>](https://git-scm.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>](https://github.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>](https://www.linux.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" title="GitLab CI/CD"/>](https://about.gitlab.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" title="Jira"/>](https://www.atlassian.com/software/jira)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>](https://www.linux.org/)
 [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma"/>](https://www.figma.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" title="Jira"/>](https://www.atlassian.com/software/jira)
 [<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" title="Jest"/>](https://jestjs.io)
 [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/>](https://postman.com)
+##
 
 ### Concepts
 OOP • SOLID • REST • gRPC • Distributed Systems • TCP/IP • DNS • HTTP • Authentication (JWT, RBAC)
+##
+
+### 🤝 Feel free to reach out — I'm open to new opportunities and collaboration.
