@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Anna 
 
-Junior Full Stack Developer with strong foundation in React, Node.js and REST APIs. Experienced in building real-world web applications, working in Agile teams and writing clean, testable code.
+Junior Software Engineer with a strong foundation in React, Node.js, TypeScript, and REST APIs. Experienced in building full-stack applications, working with authentication systems (JWT, RBAC), and developing backend services with a focus on clean, testable, and scalable code. Familiar with Agile team environments, Git workflows, and collaborative software development practices.
 
 ## "The satisfaction of work makes the work perfect." — Aristotle 
 
@@ -13,7 +13,7 @@ Junior Full Stack Developer with strong foundation in React, Node.js and REST AP
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" > 
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/sql/default.asp" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" title="MySQL" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="40" height="40"/></a>
@@ -38,7 +38,7 @@ Junior Full Stack Developer with strong foundation in React, Node.js and REST AP
   <a href="https://redux.js.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="Redux" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" width="40" height="40"/></a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" title="Vue.js" width="40" height="40"/></a> 
-</p>
+</div>
 
 
 
