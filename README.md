@@ -1,44 +1,52 @@
 
 # Hi 👋, I'm Anna 
 
-Junior Software Engineer with a strong foundation in React, Node.js, TypeScript, and REST APIs. Experienced in building full-stack applications, working with authentication systems (JWT, RBAC), and developing backend services with a focus on clean, testable, and scalable code. Familiar with Agile team environments, Git workflows, and collaborative software development practices.
+Junior Software Engineer with a strong foundation in React, Node.js, TypeScript, and REST APIs. Experienced in building full-stack applications, working with authentication systems (JWT, RBAC), and developing backend services with a focus on clean, testable, and scalable code.
 
 ## "The satisfaction of work makes the work perfect." — Aristotle 
 
 ### Connect with me:
 
-- [![Static Badge](https://img.shields.io/badge/LinkedIn%20-%230A66C2?style=flat&logo=linkedin&logoColor=%230A66C2&labelColor=white&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fannarychkova1%2F)](https://www.linkedin.com/in/annarychkova1/)
--  [![Static Badge](https://img.shields.io/badge/anna.rychkova.dev%40gmail.com%20-8FFCCC?style=flat&logo=gmail&logoColor=white&labelColor=BD324E&color=BD324E&link=anna.rychkova.dev%40gmail.com%20)](mailto:anna.rychkova.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2?style=flat&logo=linkedin&logoColor=%230A66C2&labelColor=white&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fannarychkova1%2F)](https://www.linkedin.com/in/annarychkova1/)
+
+[![Gmail](https://img.shields.io/badge/anna.rychkova.dev%40gmail.com-white?style=flat&logo=gmail&logoColor=white&labelColor=white&color=white)](mailto:anna.rychkova.dev@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=flat&logo=vercel&logoColor=white&labelColor=FF69B4&color=FF69B4)](https://annarychkova.dev/)
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/sql/default.asp" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" title="MySQL" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="40" height="40"/></a>
-  <a href="https://docs.oracle.com/javase/8/docs/api/overview-summary.html" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" title="Java" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="Bash" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/" rel="noreferrer" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" title="Bootstrap" width="40" height="40"/></a>
-  <a href="https://jquery.com" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="jQuery" title="jQuery" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" title="Docker" width="40" height="40"/></a>
-  <a href="https://wordpress.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" alt="WordPress" title="WordPress" width="40" height="40"/></a>
-  <a href="https://angular.dev/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" title="Angular" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="express" title="Express.js" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/></a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" title="Jest" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="MongoDB" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="Node.js" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="nextjs" title="Next.js" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="React" width="40" height="40"/></a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="Redux" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" width="40" height="40"/></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" title="Vue.js" width="40" height="40"/></a> 
-</div>
+### Languages and Tools:
+
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>](https://www.typescriptlang.org/)
+[<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" title="Java"/>](https://docs.oracle.com/javase/8/docs/api/overview-summary.html)
+[<img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="40" title="SQL"/>](https://www.w3schools.com/sql/)
+
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>](https://nodejs.org)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js"/>](https://expressjs.com)
+[<img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" width="40" title="gRPC"/>](https://grpc.io/)
+
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>](https://www.mongodb.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>](https://www.mysql.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" title="Supabase"/>](https://supabase.com/)
+
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"/>](https://reactjs.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>](https://nextjs.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" title="Redux"/>](https://redux.js.org)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3"/>](https://www.w3schools.com/css/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/>](https://tailwindcss.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>](https://www.w3.org/html/)
 
 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker"/>](https://www.docker.com/)
+[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>](https://git-scm.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>](https://github.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>](https://www.linux.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" title="GitLab CI/CD"/>](https://about.gitlab.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" title="Jira"/>](https://www.atlassian.com/software/jira)
+[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma"/>](https://www.figma.com/)
+[<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" title="Jest"/>](https://jestjs.io)
+[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/>](https://postman.com)
 
+### Concepts
+OOP • SOLID • REST • gRPC • Distributed Systems • TCP/IP • DNS • HTTP • Authentication (JWT, RBAC)
